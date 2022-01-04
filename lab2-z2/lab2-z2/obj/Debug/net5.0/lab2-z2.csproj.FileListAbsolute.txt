@@ -1,0 +1,5 @@
+C:\Users\RG\RiderProjects\lab2-z2\lab2-z2\obj\Debug\net5.0\lab2-z2.csproj.AssemblyReference.cache
+C:\Users\RG\RiderProjects\lab2-z2\lab2-z2\obj\Debug\net5.0\lab2-z2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RG\RiderProjects\lab2-z2\lab2-z2\obj\Debug\net5.0\lab2-z2.AssemblyInfoInputs.cache
+C:\Users\RG\RiderProjects\lab2-z2\lab2-z2\obj\Debug\net5.0\lab2-z2.AssemblyInfo.cs
+C:\Users\RG\RiderProjects\lab2-z2\lab2-z2\obj\Debug\net5.0\lab2-z2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Users\RG\RiderProjects\lab2-z1\lab2-z1\bin\Debug\net5.0\lab2-z1.exe
+C:\Users\RG\RiderProjects\lab2-z1\lab2-z1\bin\Debug\net5.0\lab2-z1.deps.json
+C:\Users\RG\RiderProjects\lab2-z1\lab2-z1\bin\Debug\net5.0\lab2-z1.runtimeconfig.json
+C:\Users\RG\RiderProjects\lab2-z1\lab2-z1\bin\Debug\net5.0\lab2-z1.runtimeconfig.dev.json
+C:\Users\RG\RiderProjects\lab2-z1\lab2-z1\bin\Debug\net5.0\lab2-z1.dll
+C:\Users\RG\RiderProjects\lab2-z1\lab2-z1\bin\Debug\net5.0\ref\lab2-z1.dll
+C:\Users\RG\RiderProjects\lab2-z1\lab2-z1\bin\Debug\net5.0\lab2-z1.pdb
+C:\Users\RG\RiderProjects\lab2-z1\lab2-z1\obj\Debug\net5.0\lab2-z1.csproj.AssemblyReference.cache
+C:\Users\RG\RiderProjects\lab2-z1\lab2-z1\obj\Debug\net5.0\lab2-z1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RG\RiderProjects\lab2-z1\lab2-z1\obj\Debug\net5.0\lab2-z1.AssemblyInfoInputs.cache
+C:\Users\RG\RiderProjects\lab2-z1\lab2-z1\obj\Debug\net5.0\lab2-z1.AssemblyInfo.cs
+C:\Users\RG\RiderProjects\lab2-z1\lab2-z1\obj\Debug\net5.0\lab2-z1.csproj.CoreCompileInputs.cache
+C:\Users\RG\RiderProjects\lab2-z1\lab2-z1\obj\Debug\net5.0\lab2-z1.dll
+C:\Users\RG\RiderProjects\lab2-z1\lab2-z1\obj\Debug\net5.0\ref\lab2-z1.dll
+C:\Users\RG\RiderProjects\lab2-z1\lab2-z1\obj\Debug\net5.0\lab2-z1.pdb
+C:\Users\RG\RiderProjects\lab2-z1\lab2-z1\obj\Debug\net5.0\lab2-z1.genruntimeconfig.cache

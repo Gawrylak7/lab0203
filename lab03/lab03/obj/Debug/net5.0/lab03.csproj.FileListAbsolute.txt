@@ -1,0 +1,16 @@
+C:\Users\RG\RiderProjects\lab03\lab03\bin\Debug\net5.0\lab03.exe
+C:\Users\RG\RiderProjects\lab03\lab03\bin\Debug\net5.0\lab03.deps.json
+C:\Users\RG\RiderProjects\lab03\lab03\bin\Debug\net5.0\lab03.runtimeconfig.json
+C:\Users\RG\RiderProjects\lab03\lab03\bin\Debug\net5.0\lab03.runtimeconfig.dev.json
+C:\Users\RG\RiderProjects\lab03\lab03\bin\Debug\net5.0\lab03.dll
+C:\Users\RG\RiderProjects\lab03\lab03\bin\Debug\net5.0\ref\lab03.dll
+C:\Users\RG\RiderProjects\lab03\lab03\bin\Debug\net5.0\lab03.pdb
+C:\Users\RG\RiderProjects\lab03\lab03\obj\Debug\net5.0\lab03.csproj.AssemblyReference.cache
+C:\Users\RG\RiderProjects\lab03\lab03\obj\Debug\net5.0\lab03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RG\RiderProjects\lab03\lab03\obj\Debug\net5.0\lab03.AssemblyInfoInputs.cache
+C:\Users\RG\RiderProjects\lab03\lab03\obj\Debug\net5.0\lab03.AssemblyInfo.cs
+C:\Users\RG\RiderProjects\lab03\lab03\obj\Debug\net5.0\lab03.csproj.CoreCompileInputs.cache
+C:\Users\RG\RiderProjects\lab03\lab03\obj\Debug\net5.0\lab03.dll
+C:\Users\RG\RiderProjects\lab03\lab03\obj\Debug\net5.0\ref\lab03.dll
+C:\Users\RG\RiderProjects\lab03\lab03\obj\Debug\net5.0\lab03.pdb
+C:\Users\RG\RiderProjects\lab03\lab03\obj\Debug\net5.0\lab03.genruntimeconfig.cache
