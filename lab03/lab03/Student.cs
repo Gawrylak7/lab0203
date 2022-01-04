@@ -16,7 +16,7 @@
 
         public virtual string WypiszPelnaNazweOUczelni()
         {
-            return ZwrocPelnaNazwe() + "- "  + kierunek +" "+ rok +" "+ uczelnia + semestr + "  ";
+            return ZwrocPelnaNazwe() + " - "  + kierunek +" "+ rok +" "+ uczelnia + semestr + "  ";
         }
 
         public Student(string imie, string nazwisko, string uczelnia, string kierunek, int rok, int semestr)
